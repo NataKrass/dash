@@ -31,6 +31,11 @@ This project manages over **50 forms** and handles **80+ API requests** (GET, PO
 - Charting and reporting using chart.js, recharts, react-chartjs-2
 
 ---
+![1](https://github.com/user-attachments/assets/d2695d6d-247a-4e1b-8d18-4b8e0d95323f)
+![2](https://github.com/user-attachments/assets/a7291bdc-a381-48b8-ba59-6a9e27f33227)
+![3](https://github.com/user-attachments/assets/6a8bfd1a-0360-4b68-a709-ccf5509ee5df)
+
+
 
 ## 🚀 Getting Started
 
