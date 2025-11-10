@@ -23,7 +23,7 @@ This project manages over **50 forms** and handles **80+ API requests** (GET, PO
 ## 💻 Features
 
 - Full-featured dashboard with over 50 dynamic forms
-- Handles **80+ API endpoints** including GET, PUT, DELETE
+- Handles **80+ API endpoints** including GET, POST, PUT, DELETE
 - Uses **Redux** for global state management
 - Reusable React components for tables, charts, forms, modals
 - Form validation and dynamic field handling
