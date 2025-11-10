@@ -1,7 +1,7 @@
 # Dash Dashboard
 
 **React Frontend Dashboard** connecting to a Ruby backend API.  
-This project manages over **50 forms** and handles **80+ API requests** (GET, PUT, DELETE) using **Redux** for state management.
+This project manages over **50 forms** and handles **80+ API requests** (GET, POST, PUT, DELETE) using **Redux** for state management.
 
 ---
 
